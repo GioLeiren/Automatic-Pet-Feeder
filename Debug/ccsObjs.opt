@@ -1,0 +1,10 @@
+"./main.obj"
+"./libs/feeder.obj"
+"./libs/i2c.obj"
+"./libs/lcd.obj"
+"./libs/realtimeclock.obj"
+"./libs/servomotor.obj"
+"./libs/uart.obj"
+"../lnk_msp430f5529.cmd"
+-llibmath.a
+-llibc.a
