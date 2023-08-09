@@ -1,1 +1,1 @@
-# Automatic-Cat-Feeder
+# Automatic Pet Feeder
