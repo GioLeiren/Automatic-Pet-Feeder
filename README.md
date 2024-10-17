@@ -59,8 +59,6 @@ The system continuously checks for new UART commands and RTC alarms:
 
 ## Installation
 1. Clone this repository:
-bash
-Copiar código
 ```
 git clone https://github.com/yourusername/automatic-pet-feeder.git
 ```
